@@ -22,7 +22,7 @@ I have been studying HarvardX's "CS50: Computer Science for Web Programming" cou
 
 ## Check out some of my projects
 
-### CAPSTONE - Hire Car Web-App
+### CAPSTONE - Car Hire Web-App
 
 A single page responsive web app, designed using React/Javascript front end and Django/Python/SQLite back end. 
 It is a car hire booking system, that checks the availability and handles the booking of cars within a fleet, distributed across several locations.
