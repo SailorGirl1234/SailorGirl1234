@@ -1,6 +1,6 @@
 # Carolyn Stevens
 
-Hi, I'm Carolyn. I'm from London and have recently been building experience with Python and Javascript, most recently using the Django framework.
+Hi, I'm Carolyn. I'm from London and am building experience with Python and Javascript, most recently using the Django framework.
 
 <hr>
 
