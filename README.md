@@ -14,6 +14,7 @@ Hi, I'm Carolyn. I'm from London and I am building experience with Python and Ja
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <hr>
 
@@ -35,6 +36,6 @@ VR Polars is designed to be used as a reference tool whilst playing the Virtual 
 
 ![VRpolars1](https://user-images.githubusercontent.com/78767736/141711640-1d9e8c01-f77c-43ee-8c72-f0c0ee53f8af.gif)
 
-Made with Python, Flask, Javascript, SQLite, HTML5, CSS. Incorporating Plotty, Pandas, Jinja2, Bootstrap4 and Leaflet
+Made with Python, Flask, Javascript, SQLite, HTML5 and CSS. Incorporating Plotty, Pandas, Jinja2, Bootstrap4 and Leaflet
 
 ![VRpolars2](https://user-images.githubusercontent.com/78767736/141712037-d723309b-f9db-4802-8df7-2325c4baf6f8.gif)
