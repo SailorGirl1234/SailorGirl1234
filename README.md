@@ -1,6 +1,6 @@
 # Carolyn Stevens
 
-Hi, I'm Carolyn. I'm from London and am building experience with Python and Javascript, most recently using the Django framework.
+Hi, I'm Carolyn. I'm from London and I am building experience with Python and Javascript, most recently using the Django framework.
 
 <hr>
 
@@ -14,7 +14,6 @@ Hi, I'm Carolyn. I'm from London and am building experience with Python and Java
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
 
 <hr>
 
