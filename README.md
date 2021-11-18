@@ -34,6 +34,8 @@ It is a car hire booking system, that checks the availability and handles the bo
 
 ### VR Polars - Virtual sailing aid
 
+[View repository](https://github.com/SailorGirl1234/VR-Polars) - [Video demonstration](https://youtu.be/13EdunA8D1U)
+
 VR Polars is designed to be used as a reference tool whilst playing the Virtual Regatta Offshore sailing racing game. It shows the user what boat speed is expected, and which sail is best to use, given a certain wind speed and direction.
 
 ![VRpolars1](https://user-images.githubusercontent.com/78767736/141711640-1d9e8c01-f77c-43ee-8c72-f0c0ee53f8af.gif)
