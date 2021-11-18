@@ -2,7 +2,7 @@
 
 Hi, I'm Carolyn. I'm from London and I am building experience with Python and Javascript, most recently using the Django framework.
 
-<hr>
+---
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -16,7 +16,7 @@ Hi, I'm Carolyn. I'm from London and I am building experience with Python and Ja
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<hr>
+---
 
 I have been studying HarvardX's "CS50: Computer Science for Web Programming" courses and am now looking to start my first developer job.
 
@@ -24,6 +24,8 @@ I have been studying HarvardX's "CS50: Computer Science for Web Programming" cou
 ## Check out some of my projects
 
 ### CAPSTONE - Car Hire Web-App
+
+ [View repository](<https://github.com/SailorGirl1234/CAPSTONE-CarHire>) - [Video demonstration](<https://youtu.be/UupEu_e38s0>)
 
 A single page responsive web app, designed using React/Javascript front end and Django/Python/SQLite back end. 
 It is a car hire booking system, that checks the availability and handles the booking of cars within a fleet, distributed across several locations.
