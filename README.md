@@ -22,8 +22,9 @@ Having most recently worked onboard an extremly large yacht with a semi-automate
 
 ---
 
-I have been studying HarvardX's "CS50: Computer Science for Web Programming" courses and am now looking to start my first developer job.
+Over the past year I have immersed myself within Harvard's CS50 courses, completing CS50x and CS50's Web development with Python and Javascript, and I am currently studying CS50's AI with Python course.
 
+I am looking to join a team to progress in my developing career.
 
 ## Check out some of my projects
 
