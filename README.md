@@ -1,6 +1,10 @@
 # Carolyn Stevens
 
-Hi, I'm Carolyn. I'm from London and I am building experience with Python and Javascript, most recently using the Django framework.
+Hi, I'm Carolyn.
+
+After more than 15 years at sea, I have become fully versed in all things sailing within the Super Yacht industry. I have worked onboard both the largest sailing yacht in the world and the largest sailing catamaran as an Officer and onboard sailing expert. During my time working at sea I have progressed through the ranks, gaining the highest certification available within the industry - Master 3000.
+
+Having most recently worked onboard an extremly large yacht with a semi-automated sailing system, I became increasingly facinated with the programming and logic behind this system, so much so that I have decided to take the leap, move back to land and pursue a new adventure - to become a programer and developer!
 
 ---
 
