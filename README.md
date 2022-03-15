@@ -2,9 +2,11 @@
 
 Hi, I'm Carolyn.
 
-After more than 15 years at sea, I have become fully versed in all things sailing within the Super Yacht industry. I have worked onboard both the largest sailing yacht in the world and the largest sailing catamaran as an Officer and onboard sailing expert. During my time working at sea I have progressed through the ranks, gaining the highest certification available within the industry - Master 3000.
+I am an ex-professional super-yacht sailor, on a new adventure - lerning to code! 
 
-While working onboard an extremly large yacht with a semi-automated sailing system, I became increasingly facinated with the programming and logic behind this system, so much so that I have decided to take the leap, move back to land and pursue a new adventure - to become a programer and developer!
+After more than 15 years at sea, I have became fully versed in all things sailing within the Super Yacht industry. I worked onboard both the largest sailing yacht in the world and the largest sailing catamaran as an Officer and the onboard sailing expert. During my time working at sea I progressed through the ranks, gaining the highest certification available within the industry - the illustrious 'Master 3000'.
+
+While working onboard one extremly large yacht, with a semi-automated sailing system, I became increasingly facinated with the programming and logic behind the automation. So much so that I have decided to take the leap, move back to land and dive a diferent and new world - striving to become a professional a programer and developer!
 
 ---
 
