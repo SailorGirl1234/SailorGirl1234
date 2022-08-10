@@ -26,7 +26,7 @@ While working onboard one extremly large yacht, with a semi-automated sailing sy
 
 ---
 
-Over the past year I have immersed myself within Harvard's CS50 courses, completing CS50x and CS50's Web development with Python and Javascript, and I am currently studying CS50's AI with Python course.
+Over the past year I have immersed myself within Harvard's CS50 courses, completing CS50x, CS50's Web development with Python and Javascript, and most recently CS50's AI with Python.
 
 I am looking to join a team to progress in my developing career.
 
