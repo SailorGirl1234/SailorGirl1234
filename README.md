@@ -22,6 +22,8 @@ While working onboard one extremly large yacht, with a semi-automated sailing sy
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SailorGirl1234&layout=compact&langs_count=4)](https://github.com/sailorgirl1234/github-readme-stats)
+
 ---
 
 Over the past year I have immersed myself within Harvard's CS50 courses, completing CS50x and CS50's Web development with Python and Javascript, and I am currently studying CS50's AI with Python course.
