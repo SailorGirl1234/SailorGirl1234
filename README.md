@@ -32,6 +32,15 @@ I am looking to join a team to progress in my developing career.
 
 ## Check out some of my projects
 
+### QUESTIONS - Question Answering AI
+
+[Video demonstration](<https://youtu.be/Td1l3vyXYuI>) - Ask to view repository (Due to Harvard's Academic Honesty Policy) 
+
+![Question Answering AI](https://user-images.githubusercontent.com/78767736/186535580-f04f3d5b-3f86-4286-88aa-7e9e6521c37c.gif)
+
+
+
+
 ### CAPSTONE - Car Hire Web-App
 
  [View repository](<https://github.com/SailorGirl1234/CAPSTONE-CarHire>) - [Video demonstration](<https://youtu.be/UupEu_e38s0>)
