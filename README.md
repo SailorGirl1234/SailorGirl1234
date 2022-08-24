@@ -1,12 +1,14 @@
-# Carolyn Stevens
+![Blue Abstract Pattern LinkedIn Banner](https://user-images.githubusercontent.com/78767736/186540782-7df059f3-24f3-4ce4-b130-09fd253296f9.png)
 
-Hi, I'm Carolyn.
+---
 
-I am an ex-professional super-yacht sailor, on a new adventure - learning to code! 
+**Hi, I'm Carolyn.**
 
-After more than 15 years at sea, I have became fully versed in all things sailing within the Super Yacht industry. I worked onboard both the largest sailing yacht in the world and the largest sailing catamaran as an Officer and the onboard sailing expert. During my time working at sea I progressed through the ranks, gaining the highest certification available within the industry - the illustrious 'Master 3000'.
+I am an ex-professional super-yacht sailor, on a new adventure - launching a new career as a developer! 
 
-While working onboard one extremly large yacht, with a semi-automated sailing system, I became increasingly facinated with the programming and logic behind the automation. So much so that I have decided to take the leap, move back to land and dive a diferent and new world - striving to become a professional a programer and developer!
+After more than 15 years at sea, I became fully versed in all things sailing within the Super Yacht industry. I worked onboard both the largest sailing yacht in the world and the largest sailing catamaran as Officer and the onboard sailing expert. During my time working at sea I progressed through the ranks, gaining the highest certification available - the illustrious 'Master 3000'.
+
+While working onboard one extremly large yacht, with a semi-automated sailing system, I became increasingly facinated with the programming and logic behind the automation. So much so that I have decided to take the leap, move back to land and dive a diferent and new world - striving to become a professional software engineer!
 
 ---
 
@@ -26,19 +28,18 @@ While working onboard one extremly large yacht, with a semi-automated sailing sy
 
 ---
 
-Over the past year I have immersed myself within Harvard's CS50 courses, completing CS50x, CS50's Web development with Python and Javascript, and most recently CS50's AI with Python.
+Over the past 18 months I have immersed myself within Harvard's CS50 courses, completing CS50x, CS50's Web development with Python and Javascript, and most recently CS50's AI with Python.
 
-I am looking to join a team to progress in my developing career.
+I am now looking to join a team with a real purpose to progress in my developing career.
 
 ## Check out some of my projects
 
+Due to Harvard's Academic Honesty Policy, most of my projects are in private repositories. If you would like to take a look, just let me know!
 ### QUESTIONS - Question Answering AI
 
-[Video demonstration](<https://youtu.be/Td1l3vyXYuI>) - Ask to view repository (Due to Harvard's Academic Honesty Policy) 
+[Video demonstration](<https://youtu.be/Td1l3vyXYuI>) - Ask to view repository
 
 ![Question Answering AI](https://user-images.githubusercontent.com/78767736/186535580-f04f3d5b-3f86-4286-88aa-7e9e6521c37c.gif)
-
-
 
 
 ### CAPSTONE - Car Hire Web-App
