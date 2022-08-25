@@ -1,12 +1,12 @@
-![Blue Abstract Pattern LinkedIn Banner](https://user-images.githubusercontent.com/78767736/186540782-7df059f3-24f3-4ce4-b130-09fd253296f9.png)
+# ![Blue Abstract Pattern LinkedIn Banner](https://user-images.githubusercontent.com/78767736/186540782-7df059f3-24f3-4ce4-b130-09fd253296f9.png)
 
 ---
 
-**Hi, I'm Carolyn.**
+## **Hi, I'm Carolyn.**
 
 I am an ex-professional super-yacht sailor, on a new adventure - launching a new career as a developer! 
 
-After more than 15 years at sea, I became fully versed in all things sailing within the Super Yacht industry. I worked onboard both the largest sailing yacht in the world and the largest sailing catamaran as Officer and the onboard sailing expert. During my time working at sea I progressed through the ranks, gaining the highest certification available - the illustrious 'Master 3000'.
+After more than 12 years at sea, I became fully versed in all things sailing within the Super Yacht industry. I worked onboard both the largest sailing yacht in the world and the largest sailing catamaran as Officer and the onboard sailing expert. During my time working at sea I progressed through the ranks, gaining the highest certification available - the illustrious 'Master 3000'.
 
 While working onboard one extremly large yacht, with a semi-automated sailing system, I became increasingly facinated with the programming and logic behind the automation. So much so that I have decided to take the leap, move back to land and dive a diferent and new world - striving to become a professional software engineer!
 
