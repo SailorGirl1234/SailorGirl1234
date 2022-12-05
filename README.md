@@ -46,6 +46,7 @@ Due to Harvard's Academic Honesty Policy, most of my projects are in private rep
 ### QUESTIONS - Question Answering AI
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/nltk-144d58?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 [Video demonstration](<https://youtu.be/Td1l3vyXYuI>) - Ask to view repository
 
