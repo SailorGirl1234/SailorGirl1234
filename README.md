@@ -36,7 +36,7 @@ While working onboard one extremly large yacht, with a semi-automated sailing sy
 
 ---
 
-Over the past 18 months I have immersed myself within Harvard's CS50 courses, completing CS50x, CS50's Web development with Python and Javascript, and most recently CS50's AI with Python.
+Over the past 18+ months I have immersed myself within Harvard's CS50 courses, completing CS50x, CS50's Web development with Python and Javascript, and most recently CS50's AI with Python.
 
 I am now looking to join a team with a real purpose to progress in my developing career.
 
@@ -52,6 +52,20 @@ Due to Harvard's Academic Honesty Policy, most of my projects are in private rep
 
 ![Question Answering AI](https://user-images.githubusercontent.com/78767736/186535580-f04f3d5b-3f86-4286-88aa-7e9e6521c37c.gif)
 
+### TRAFFIC - an AI to identify which traffic sign appears in a photograph
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+[Video demonstration](<https://youtu.be/sWxuxhMWt34>) - Ask to view repository
+
+I used TensorFlow to build a neural network to classify road signs based on an image of those signs. I used the labeled dataset: German Traffic Sign Recognition Benchmark (GTSRB), which contains thousands of images of 43 different kinds of road signs.
+
+By combining various layers and filters I was able to create a neural network that's models showed consistantly reliable accuracy of around 0.985 with a loss of around 0.05.
+
+![Traffic](https://user-images.githubusercontent.com/78767736/205767917-8c63cd05-3664-417c-aaf6-f4b72ffdea9f.gif)
 
 ### CAPSTONE - Car Hire Web-App
 
