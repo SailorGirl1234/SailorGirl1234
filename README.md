@@ -45,12 +45,23 @@ I am now looking to join a team with a real purpose to progress in my developing
 Due to Harvard's Academic Honesty Policy, most of my projects are in private repositories. If you would like to take a look, just let me know!
 ### QUESTIONS - Question Answering AI
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 [Video demonstration](<https://youtu.be/Td1l3vyXYuI>) - Ask to view repository
 
 ![Question Answering AI](https://user-images.githubusercontent.com/78767736/186535580-f04f3d5b-3f86-4286-88aa-7e9e6521c37c.gif)
 
 
 ### CAPSTONE - Car Hire Web-App
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
  [View repository](<https://github.com/SailorGirl1234/CAPSTONE-CarHire>) - [Video demonstration](<https://youtu.be/UupEu_e38s0>)
 
@@ -60,6 +71,19 @@ It is a car hire booking system, that checks the availability and handles the bo
 ![capstone](https://user-images.githubusercontent.com/78767736/141709859-662ef52b-344e-4de1-85af-5c9d7c2fd9a4.gif)
 
 ### VR Polars - Virtual sailing aid
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-%23199900.svg?style=for-the-badge&logo=leaflet&logoColor=white)
+
 
 [View repository](https://github.com/SailorGirl1234/VR-Polars) - [Video demonstration](https://youtu.be/13EdunA8D1U)
 
