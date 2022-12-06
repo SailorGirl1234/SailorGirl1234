@@ -33,11 +33,13 @@ Over the past 18+ months I have immersed myself within Harvard's CS50 courses, c
 
 I am now looking to join a team with a real purpose to progress in my developing career.
 
+---
+
 ## Check out some of my projects
 
-
 Due to Harvard's Academic Honesty Policy, most of my projects are in private repositories. If you would like to take a look, just let me know!
-### QUESTIONS - Question Answering AI
+
+### **QUESTIONS** - Question Answering AI
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Python](https://img.shields.io/badge/nltk-144d58?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -51,7 +53,9 @@ Document processing using tf-idf. Passage scoring using a combination of inverse
 
 ![Question Answering AI](https://user-images.githubusercontent.com/78767736/186535580-f04f3d5b-3f86-4286-88aa-7e9e6521c37c.gif)
 
-### TRAFFIC - A Neural Network AI to identify which traffic sign appears in a photograph
+---
+
+### **TRAFFIC** - A Neural Network AI to identify which traffic sign appears in a photograph
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -68,7 +72,9 @@ By combining various layers and filters I was able to create a neural network th
 
 ![Traffic](https://user-images.githubusercontent.com/78767736/205767917-8c63cd05-3664-417c-aaf6-f4b72ffdea9f.gif)
 
-### CAPSTONE - Car Hire Web-App
+---
+
+### **CAPSTONE** - Car Hire Web-App
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -86,7 +92,9 @@ It is a car hire booking system, that checks the availability and handles the bo
 
 ![capstone](https://user-images.githubusercontent.com/78767736/141709859-662ef52b-344e-4de1-85af-5c9d7c2fd9a4.gif)
 
-### VR Polars - Virtual sailing aid
+---
+
+### **VR Polars** - Virtual sailing aid
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
