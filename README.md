@@ -35,6 +35,7 @@ I am now looking to join a team with a real purpose to progress in my developing
 
 ## Check out some of my projects
 
+
 Due to Harvard's Academic Honesty Policy, most of my projects are in private repositories. If you would like to take a look, just let me know!
 ### QUESTIONS - Question Answering AI
 
@@ -47,9 +48,10 @@ A natural language processing, question answering system, which retrieves the mo
 
 Document processing using tf-idf. Passage scoring using a combination of inverse document frequency and a query term density measure.
 
+
 ![Question Answering AI](https://user-images.githubusercontent.com/78767736/186535580-f04f3d5b-3f86-4286-88aa-7e9e6521c37c.gif)
 
-### TRAFFIC - an AI to identify which traffic sign appears in a photograph
+### TRAFFIC - A Neural Network AI to identify which traffic sign appears in a photograph
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -59,6 +61,8 @@ Document processing using tf-idf. Passage scoring using a combination of inverse
 [Video demonstration](<https://youtu.be/sWxuxhMWt34>) - Ask to view repository
 
 I used TensorFlow to build a neural network to classify road signs based on an image of those signs. I used the labeled dataset: German Traffic Sign Recognition Benchmark (GTSRB), which contains thousands of images of 43 different kinds of road signs.
+
+<img width="100%" alt="German Traffic Sign Recognition Benchmark examples" src="https://user-images.githubusercontent.com/78767736/205778672-f8f01def-92cb-4745-bb52-0273022cf60e.png">
 
 By combining various layers and filters I was able to create a neural network that's models showed consistantly reliable accuracy of around 0.985 with a loss of around 0.05.
 
