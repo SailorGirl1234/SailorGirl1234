@@ -25,7 +25,7 @@ While working onboard one extremly large yacht, with a semi-automated sailing sy
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SailorGirl1234&layout=compact&langs_count=4)](https://github.com/sailorgirl1234/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SailorGirl1234&layout=compact&langs_count=4&theme=nightowl)](https://github.com/sailorgirl1234/github-readme-stats)
 
 ---
 
