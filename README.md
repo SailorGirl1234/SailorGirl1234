@@ -16,8 +16,11 @@ While working onboard one extremly large yacht, with a semi-automated sailing sy
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=Plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=Plastic&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=Plastic&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=Plastic&logo=java&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=Plastic&logo=Arduino&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=Plastic&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=Plastic&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=Plastic&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=Plastic&logo=sqlite&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=Plastic&logo=SASS&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=Plastic&logo=git&logoColor=white)
@@ -25,7 +28,7 @@ While working onboard one extremly large yacht, with a semi-automated sailing sy
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=Plastic&logo=intellij-idea&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SailorGirl1234&layout=compact&langs_count=4&theme=nightowl)](https://github.com/sailorgirl1234/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SailorGirl1234&layout=compact&langs_count=4&theme=tokyonight)](https://github.com/sailorgirl1234/github-readme-stats)
 
 ---
 
