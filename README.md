@@ -8,7 +8,7 @@ I am an ex-professional super-yacht sailor, on a new adventure - launching a new
 
 After more than 12 years at sea, I became fully versed in all things sailing within the Super Yacht industry. I worked onboard both the largest sailing yacht in the world and the largest sailing catamaran as Officer and the onboard sailing expert. During my time working at sea I progressed through the ranks, gaining the highest certification available - the illustrious 'Master 3000'.
 
-While working onboard one extremly large yacht, with a semi-automated sailing system, I became increasingly facinated with the programming and logic behind the automation. So much so that I have decided to take the leap, move back to land and dive a diferent and new world - striving to become a professional software engineer!
+While working onboard one extremly large yacht, with a semi-automated sailing system, I became increasingly facinated with the programming and logic behind the automation. So much so that I have decided to take the leap, move back to land and dive into a diferent and new world - striving to become a professional software engineer!
 
 ---
 
@@ -27,8 +27,7 @@ While working onboard one extremly large yacht, with a semi-automated sailing sy
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=Plastic&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=Plastic&logo=intellij-idea&logoColor=white)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SailorGirl1234&layout=compact&langs_count=4&theme=tokyonight)](https://github.com/sailorgirl1234/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SailorGirl1234&layout=compact&langs_count=4&theme=nightowl)](https://github.com/sailorgirl1234/github-readme-stats)
 
 ---
 
