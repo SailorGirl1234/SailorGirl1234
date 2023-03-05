@@ -29,6 +29,8 @@ While working onboard one extremly large yacht, with a semi-automated sailing sy
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SailorGirl1234&layout=compact&langs_count=4&theme=nightowl)](https://github.com/sailorgirl1234/github-readme-stats)
 
+[![Codewars Stats](https://www.codewars.com/users/SailorGirl1234/badges/large)](https://www.codewars.com/users/SailorGirl1234)
+
 ---
 
 Over the past 18+ months I have immersed myself within Harvard's CS50 courses, completing CS50x, CS50's Web development with Python and Javascript, and most recently CS50's AI with Python.
